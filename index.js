@@ -1,1 +1,1 @@
-parseInt('nonsense', 10)
+parseInt('nonsense!', 10)
