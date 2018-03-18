@@ -1,2 +1,3 @@
-parseInt('nonsense!', 10)
-parseInt('2.2222', 10)
+function subtract(a, b) {
+  return b - a
+}
